@@ -1,6 +1,7 @@
 **Open source disclaimer**
 
 **How to import application**
+
 Open an application on EAE, and then right click on the top node, select 'Create Library' -> 'Unarchive' : 
 
 ![image](https://github.com/user-attachments/assets/644a860f-59da-495a-af5e-d7873cfffcbb)
